@@ -1,0 +1,553 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV Main Card" tvg-logo="https://logo.m3uassets.com/ufcppvmaincard.png" group-title="PPV Live Events",UFC PPV Main Card
+https://gohyperspeed.com/1011937795/JiJIJQSsII/800008033
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV Prelims" tvg-logo="https://logo.m3uassets.com/ufcppvprelims.png" group-title="PPV Live Events",UFC PPV Prelims
+https://gohyperspeed.com/1011937795/JiJIJQSsII/800008032
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV Early Prelims" tvg-logo="https://logo.m3uassets.com/ufcppvearlyprelims.png" group-title="PPV Live Events",UFC PPV Early Prelims
+https://gohyperspeed.com/1011937795/JiJIJQSsII/800008031
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="US Sports",US: ESPN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163456
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US: CNN" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="US News",US: CNN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163533
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US: MSNBC" tvg-logo="https://logo.m3uassets.com/msnbc.png" group-title="US News",US: MSNBC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163537
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US: TNT" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="USA Premium",US: TNT
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163455
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US: HGTV" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="USA Premium",US: HGTV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151328
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US: TBS" tvg-logo="https://logo.m3uassets.com/tbs.png" group-title="USA Premium",US: TBS
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151428
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US: A&amp;E" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="USA Premium",US: A&E
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151194
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US: USA Network" tvg-logo="https://logo.m3uassets.com/network.png" group-title="USA Premium",US: USA Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163506
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US: Comedy Central" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="USA Premium",US: Comedy Central
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163493
+#EXTINF:-1 tvg-id="WLNYWLNY.us" tvg-name="US: CBS (New York)" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="USA Premium",US: CBS (New York)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151231
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US: History Channel" tvg-logo="https://logo.m3uassets.com/historychannel.png" group-title="USA Premium",US: History Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151329
+#EXTINF:-1 tvg-id="abcwkbw.us" tvg-name="US: ABC (Buffalo)" tvg-logo="https://logo.m3uassets.com/abc.png" group-title="USA Premium",US: ABC (Buffalo)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151196
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="US: Food Network" tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="USA Premium",US: Food Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163519
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="US: NBC (New York)" tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="USA Premium",US: NBC (New York)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151366
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US: TLC" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="USA Premium",US: TLC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163526
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US: Game Show Network" tvg-logo="https://logo.m3uassets.com/gameshownetwork.png" group-title="USA Premium",US: Game Show Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151315
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US: Hallmark Channel" tvg-logo="https://logo.m3uassets.com/hallmarkchannel.png" group-title="USA Premium",US: Hallmark Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151321
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US: Lifetime Network" tvg-logo="https://logo.m3uassets.com/lifetimenetwork.png" group-title="USA Premium",US: Lifetime Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151343
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US: Discovery ID" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="USA Premium",US: Discovery ID
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200165515
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US: FX" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="USA Premium",US: FX
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163495
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US: REELZ" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="USA Premium",US: REELZ
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151388
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US: NFL Network" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="US Sports",US: NFL Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151371
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.ca2" tvg-name="US: Oxygen True Crime" tvg-logo="https://logo.m3uassets.com/oxygentruecrime.png" group-title="USA Premium",US: Oxygen True Crime
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200166113
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: Fox Sports 1" tvg-logo="https://logo.m3uassets.com/foxsports1.png" group-title="US Sports",US: Fox Sports 1
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163462
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US: Discovery" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="USA Premium",US: Discovery
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163511
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US: AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="USA Premium",US: AMC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163489
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="US Sports",US: ESPN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500000747
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US: Paramount Network" tvg-logo="https://logo.m3uassets.com/paramountnetwork.png" group-title="USA Premium",US: Paramount Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163502
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US: FXX" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="USA Premium",US: FXX
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163496
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US: CNBC" tvg-logo="https://logo.m3uassets.com/cnbc.png" group-title="US News",US: CNBC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163531
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN2" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="US Sports",US: ESPN2
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163457
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US: TV Land" tvg-logo="https://logo.m3uassets.com/tvland.png" group-title="USA Premium",US: TV Land
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163515
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US: Bravo" tvg-logo="https://logo.m3uassets.com/bravo.png" group-title="USA Premium",US: Bravo
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163516
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US: Starz Encore Action" tvg-logo="https://logo.m3uassets.com/starzencoreaction.png" group-title="US Movies",US: Starz Encore Action
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163575
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US: National Geographic" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="USA Premium",US: National Geographic
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163508
+#EXTINF:-1 tvg-id="ion.us" tvg-name="US: iON TV" tvg-logo="https://logo.m3uassets.com/iontv.png" group-title="USA Premium",US: iON TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151336
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US: Bounce TV" tvg-logo="https://logo.m3uassets.com/bouncetv.png" group-title="USA Premium",US: Bounce TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151219
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Movies",US: HBO
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163558
+#EXTINF:-1 tvg-id="Oxygen - Pacific Feed" tvg-name="US: Oxygen (West)" tvg-logo="https://logo.m3uassets.com/oxygen.png" group-title="USA Premium",US: Oxygen (West)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163524
+#EXTINF:-1 tvg-id="fox29wutv.us" tvg-name="US: FOX 29 Buffalo" tvg-logo="https://logo.m3uassets.com/fox29buffalo.png" group-title="USA Premium",US: FOX 29 Buffalo
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200162378
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US: Showtime" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US Movies",US: Showtime
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163566
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="US: NBC Miami (WTVJ)" tvg-logo="https://logo.m3uassets.com/nbcmiami.png" group-title="USA Premium",US: NBC Miami (WTVJ)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163536
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US: Cartoon Network" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="USA Premium",US: Cartoon Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163487
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US: Freeform" tvg-logo="https://logo.m3uassets.com/freeform.png" group-title="USA Premium",US: Freeform
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151308
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="US: TV ONE" tvg-logo="https://logo.m3uassets.com/tvone.png" group-title="USA Premium",US: TV ONE
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151441
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US: Hallmark Movies &amp; Mysteries" tvg-logo="https://logo.m3uassets.com/hallmarkmoviesmysteries.png" group-title="USA Premium",US: Hallmark Movies & Mysteries
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200164799
+#EXTINF:-1 tvg-id="grit.us" tvg-name="US: GRIT" tvg-logo="https://logo.m3uassets.com/grit.png" group-title="USA Premium",US: GRIT
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151320
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US: INSP TV" tvg-logo="https://logo.m3uassets.com/insp.png" group-title="USA Premium",US: INSP TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151334
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US: Magnolia Network" tvg-logo="https://logo.m3uassets.com/magnolianetwork.png" group-title="USA Premium",US: Magnolia Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151269
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="US: SYFY" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="USA Premium",US: SYFY
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163513
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="US: MLB Network" tvg-logo="https://logo.m3uassets.com/mlbnetwork.png" group-title="US Sports",US: MLB Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163466
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-name="US: Cinemax Action" tvg-logo="https://logo.m3uassets.com/cinemaxactionmax.png" group-title="US Movies",US: Cinemax Action
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163549
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="US: NEWSMAX" tvg-logo="https://logo.m3uassets.com/newsmax.png" group-title="US News",US: NEWSMAX
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200158496
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US: Cooking Channel" tvg-logo="https://logo.m3uassets.com/cookingchannel.png" group-title="USA Premium",US: Cooking Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151253
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: Yes Network" tvg-logo="https://logo.m3uassets.com/yesnetwork.png" group-title="US Sports",US: Yes Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200155102
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US: ME TV" tvg-logo="https://logo.m3uassets.com/metv.png" group-title="USA Premium",US: ME TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151346
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US: VH1" tvg-logo="https://logo.m3uassets.com/vh1.png" group-title="USA Premium",US: VH1
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163501
+#EXTINF:-1 tvg-id="lmn.us" tvg-name="US: Lifetime Movie Network" tvg-logo="https://logo.m3uassets.com/lifetimemovienetwork.png" group-title="US Movies",US: Lifetime Movie Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200169483
+#EXTINF:-1 tvg-id="starz.us" tvg-name="US: Starz" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US Movies",US: Starz
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163579
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US: Golf Channel" tvg-logo="https://logo.m3uassets.com/golfchannel.png" group-title="US Sports",US: Golf Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163476
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US: Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="USA Premium",US: Nickelodeon
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163488
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US: Discovery Science" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="USA Premium",US: Discovery Science
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151264
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="https://logo.m3uassets.com/nbatv.png" group-title="US Sports",US: NBA TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163467
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US: Animal Planet" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="USA Premium",US: Animal Planet
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163510
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="US: OWN" tvg-logo="https://logo.m3uassets.com/own.png" group-title="USA Premium",US: OWN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163523
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone" tvg-logo="https://logo.m3uassets.com/hbozone.png" group-title="US Movies",US: HBO Zone
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163564
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="US: Adult Swim" tvg-logo="https://logo.m3uassets.com/adultswim.png" group-title="USA Premium",US: Adult Swim
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200158172
+#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="US: MGM+ Hits" tvg-logo="https://logo.m3uassets.com/mgm+hits.png" group-title="US Movies",US: MGM+ Hits
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163557
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="US: Spectrum Sportsnet Dodgers" tvg-logo="https://logo.m3uassets.com/spectrumsportsnet.png" group-title="US Sports",US: Spectrum Sportsnet Dodgers
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151409
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-name="US: Cinemax Classics" tvg-logo="https://logo.m3uassets.com/cinemax5starmax.png" group-title="US Movies",US: Cinemax Classics
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163548
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US: NHL Network" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US Sports",US: NHL Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151373
+#EXTINF:-1 tvg-id="TUDN.us2" tvg-name="US: TUDN" tvg-logo="https://logo.m3uassets.com/tudn.png" group-title="US Sports",US: TUDN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200171418
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US: Smithsonian Channel" tvg-logo="https://logo.m3uassets.com/smithsonianchannel.png" group-title="USA Premium",US: Smithsonian Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163512
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO Comedy" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US Movies",US: HBO Comedy
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163560
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US: Cinemax (East)" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="US Movies",US: Cinemax (East)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163546
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US: Showtime 2" tvg-logo="https://logo.m3uassets.com/showtime2.png" group-title="US Movies",US: Showtime 2
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163567
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="US: WE TV" tvg-logo="https://logo.m3uassets.com/wetv.png" group-title="USA Premium",US: WE TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163527
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US: NBC Sports Philadelphia" tvg-logo="https://logo.m3uassets.com/nbcsportsphiladelphia.png" group-title="US Sports",US: NBC Sports Philadelphia
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151364
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US: E! Entertainment" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="USA Premium",US: E! Entertainment
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163518
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US: The Weather Channel" tvg-logo="https://logo.m3uassets.com/theweatherchannel.png" group-title="US News",US: The Weather Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151450
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="US Showtime Next (East) (S)" tvg-logo="https://logo.m3uassets.com/showtimenext.png" group-title="US Movies",US Showtime Next (East) (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/14193
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US: HBO Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="US Movies",US: HBO Signature
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163563
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US: HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US Movies",US: HBO 2
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163559
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="US: IFC" tvg-logo="https://logo.m3uassets.com/ifc.png" group-title="USA Premium",US: IFC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163498
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US: National Geographic Wild" tvg-logo="https://logo.m3uassets.com/nationalgeographicwild.png" group-title="USA Premium",US: National Geographic Wild
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163509
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="US: FYI Network" tvg-logo="https://logo.m3uassets.com/fyinetwork.png" group-title="USA Premium",US: FYI Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151314
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US: CBS Sports Network" tvg-logo="https://logo.m3uassets.com/cbssportsnetwork.png" group-title="US Sports",US: CBS Sports Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151233
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="US: NESN" tvg-logo="https://logo.m3uassets.com/nesn.png" group-title="US Sports",US: NESN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151368
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US: Turner Classic Movies" tvg-logo="https://logo.m3uassets.com/turnerclassicmovies.png" group-title="US Movies",US: Turner Classic Movies
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163504
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US: BBC America" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="USA Premium",US: BBC America
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151212
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US: Showtime Extreme" tvg-logo="https://logo.m3uassets.com/showtimeextreme.png" group-title="US Movies",US: Showtime Extreme
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163569
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="US: BBC World News" tvg-logo="https://logo.m3uassets.com/bbcworldnews.png" group-title="US News",US: BBC World News
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200155129
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="US: Discovery Turbo" tvg-logo="https://logo.m3uassets.com/motortrend.png" group-title="US Sports",US: Discovery Turbo
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163522
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="US: HBO (West)" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Movies",US: HBO (West)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170287
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US: SEC Network" tvg-logo="https://logo.m3uassets.com/secnetwork.png" group-title="US Sports",US: SEC Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163458
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US: NBC Sports Bay Area" tvg-logo="https://logo.m3uassets.com/nbcsportsbayarea.png" group-title="US Sports",US: NBC Sports Bay Area
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151359
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="US: Willow Cricket" tvg-logo="https://logo.m3uassets.com/willowcricket.png" group-title="US Sports",US: Willow Cricket
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200162593
+#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="US: SNY (Sportsnet NY)" tvg-logo="https://logo.m3uassets.com/sny.png" group-title="US Sports",US: SNY (Sportsnet NY)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151407
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US: Starz Edge" tvg-logo="https://logo.m3uassets.com/starzedge.png" group-title="US Movies",US: Starz Edge
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163581
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US Cinemax East (A)" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="US Movies",US Cinemax East (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5860
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="US: BUZZR" tvg-logo="https://logo.m3uassets.com/buzzr.png" group-title="USA Premium",US: BUZZR
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151221
+#EXTINF:-1 tvg-id="spacecityhomenetwork.us" tvg-name="US: Space City Home Network" tvg-logo="https://logo.m3uassets.com/spacecityhomenetwork.png" group-title="US Sports",US: Space City Home Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200164418
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="US: MGM+" tvg-logo="https://logo.m3uassets.com/mgm.png" group-title="US Movies",US: MGM+
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163555
+#EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="US: Bloomberg TV" tvg-logo="https://logo.m3uassets.com/bloombergtv.png" group-title="US News",US: Bloomberg TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151216
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US HBO (East) (H)" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Movies",US HBO (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22585
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="US: Cinemax Hits" tvg-logo="https://logo.m3uassets.com/cinemaxmoremax.png" group-title="US Movies",US: Cinemax Hits
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163547
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US: COMET" tvg-logo="https://logo.m3uassets.com/comet.png" group-title="USA Premium",US: COMET
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151251
+#EXTINF:-1 tvg-id="msg.us" tvg-name="US: MSG" tvg-logo="https://logo.m3uassets.com/msg.png" group-title="US Sports",US: MSG
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151349
+#EXTINF:-1 tvg-id="mgmmarquee.us" tvg-name="US: MGM+ Marquee" tvg-logo="https://logo.m3uassets.com/mgm+marquee.png" group-title="US Movies",US: MGM+ Marquee
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163554
+#EXTINF:-1 tvg-id="cozitv.us" tvg-name="US: COZI" tvg-logo="https://logo.m3uassets.com/cozi.png" group-title="USA Premium",US: COZI
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163545
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US: Starz Encore" tvg-logo="https://logo.m3uassets.com/starzencore.png" group-title="US Movies",US: Starz Encore
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163583
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US: Sundance TV" tvg-logo="https://logo.m3uassets.com/sundancetv.png" group-title="US Movies",US: Sundance TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163590
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US: Starz Encore Black" tvg-logo="https://logo.m3uassets.com/starzencoreblack.png" group-title="US Movies",US: Starz Encore Black
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163576
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US: Viceland" tvg-logo="https://logo.m3uassets.com/viceland.png" group-title="USA Premium",US: Viceland
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151448
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US: Showtime Showcase" tvg-logo="https://logo.m3uassets.com/showtimeshowcase.png" group-title="US Movies",US: Showtime Showcase
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163570
+#EXTINF:-1 tvg-id="sportsnetpittsburgh.us" tvg-name="US: AT&amp;T Sportsnet Pittsburgh" tvg-logo="https://logo.m3uassets.com/attsportsnetpittsburgh.png" group-title="US Sports",US: AT&T Sportsnet Pittsburgh
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200164416
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US: Starz In Black" tvg-logo="https://logo.m3uassets.com/starzblack.png" group-title="US Movies",US: Starz In Black
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163585
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US: Starz West" tvg-logo="https://logo.m3uassets.com/starzwest.png" group-title="US Movies",US: Starz West
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163584
+#EXTINF:-1 tvg-id="antennatvhd.us" tvg-name="US: Antenna TV" tvg-logo="https://logo.m3uassets.com/antennatv.png" group-title="USA Premium",US: Antenna TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151206
+#EXTINF:-1 tvg-id="chsn.us" tvg-name="US: Chicago Sports Network" tvg-logo="https://logo.m3uassets.com/conchosportsnetwork.png" group-title="US Sports",US: Chicago Sports Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151362
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US: FXM" tvg-logo="https://logo.m3uassets.com/fxm.png" group-title="US Movies",US: FXM
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163497
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US: Starz Encore Classic" tvg-logo="https://logo.m3uassets.com/starzencoreclassic.png" group-title="US Movies",US: Starz Encore Classic
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163577
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US: Big Ten Network" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" group-title="US Sports",US: Big Ten Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163469
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US: ONE AMERICA NEWS" tvg-logo="https://logo.m3uassets.com/oneamericanews.png" group-title="US News",US: ONE AMERICA NEWS
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151377
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US: Starz Encore Westerns" tvg-logo="https://logo.m3uassets.com/starzencorewesterns.png" group-title="US Movies",US: Starz Encore Westerns
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163588
+#EXTINF:-1 tvg-id="abcwls.us" tvg-name="US abc 7 (WLS) Chicago (A)" tvg-logo="https://logo.m3uassets.com/chicagoabc7.png" group-title="US ABC",US abc 7 (WLS) Chicago (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/6823
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="US: REVOLT" tvg-logo="https://logo.m3uassets.com/revolt.png" group-title="USA Premium",US: REVOLT
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151390
+#EXTINF:-1 tvg-id="EPIXHits.us" tvg-name="US MGM+ Marquee (S)" tvg-logo="https://logo.m3uassets.com/mgm+marquee.png" group-title="US Movies",US MGM+ Marquee (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5857
+#EXTINF:-1 tvg-id="STARZENCOREWesterns.us" tvg-name="US Starz (West) (S)" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US Movies",US Starz (West) (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5856
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US: Starz Comedy" tvg-logo="https://logo.m3uassets.com/starzcomedy.png" group-title="US Movies",US: Starz Comedy
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163582
+#EXTINF:-1 tvg-id="mgmdrivein.us" tvg-name="US: MGM+ Drive In" tvg-logo="https://logo.m3uassets.com/drive.png" group-title="US Movies",US: MGM+ Drive In
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163556
+#EXTINF:-1 tvg-id="ufcfightpass_event1.p13" tvg-name="US: UFC Fight Pass 24/7" tvg-logo="https://logo.m3uassets.com/ufcfightpass.png" group-title="US Sports",US: UFC Fight Pass 24/7
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200158098
+#EXTINF:-1 tvg-id="WGNWGN9.us" tvg-name="US: WGN 9 Chicago" tvg-logo="https://logo.m3uassets.com/wgn9chicago.png" group-title="USA Premium",US: WGN 9 Chicago
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200168771
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US: Fuse" tvg-logo="https://logo.m3uassets.com/fuse.png" group-title="USA Premium",US: Fuse
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151309
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Discovery Turbo" tvg-logo="https://logo.m3uassets.com/discoveryturboplus.png" group-title="Discovery Plus",Discovery Plus | Discovery Turbo
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017764
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Investigation Discovery" tvg-logo="https://logo.m3uassets.com/investigationdiscoveryplus.png" group-title="Discovery Plus",Discovery Plus | Investigation Discovery
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017765
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Discovery Science" tvg-logo="https://logo.m3uassets.com/discoveryscienceplus.png" group-title="Discovery Plus",Discovery Plus | Discovery Science
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017762
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US: Outdoor TV" tvg-logo="https://logo.m3uassets.com/osnoutdoor.png" group-title="USA Premium",US: Outdoor TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200162594
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Discovery Channel" tvg-logo="https://logo.m3uassets.com/discoverychannelplus.png" group-title="Discovery Plus",Discovery Plus | Discovery Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017760
+#EXTINF:-1 tvg-id="hln.us" tvg-name="US: HLN" tvg-logo="https://logo.m3uassets.com/hln.png" group-title="US News",US: HLN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151330
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPNews" tvg-logo="https://logo.m3uassets.com/espnews.png" group-title="US Sports",US: ESPNews
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163461
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="US: Starz Encore Suspense" tvg-logo="https://logo.m3uassets.com/starzencoresuspense.png" group-title="US Movies",US: Starz Encore Suspense
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163578
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Discovery History" tvg-logo="https://logo.m3uassets.com/discoveryhistoryplus.png" group-title="Discovery Plus",Discovery Plus | Discovery History
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017763
+#EXTINF:-1 tvg-id="" tvg-name="Peacock WWE" tvg-logo="" group-title="Peacock TV",Peacock WWE
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600014153
+#EXTINF:-1 tvg-id="" tvg-name="Peacock Live | NBC News Chicago" tvg-logo="" group-title="Peacock TV",Peacock Live | NBC News Chicago
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600014374
+#EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="US: ABC News Live" tvg-logo="https://logo.m3uassets.com/abcnewslive.png" group-title="US News",US: ABC News Live
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163528
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Animal Planet" tvg-logo="https://logo.m3uassets.com/animalplanetplus.png" group-title="Discovery Plus",Discovery Plus | Animal Planet
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017761
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Quest" tvg-logo="https://logo.m3uassets.com/discoveryplus1.png" group-title="Discovery Plus",Discovery Plus | Quest
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017769
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | HGTV" tvg-logo="https://logo.m3uassets.com/discoveryplus1.png" group-title="Discovery Plus",Discovery Plus | HGTV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017767
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | DMAX" tvg-logo="https://logo.m3uassets.com/discoveryplus1.png" group-title="Discovery Plus",Discovery Plus | DMAX
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017766
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | TLC" tvg-logo="https://logo.m3uassets.com/discoveryplus1.png" group-title="Discovery Plus",Discovery Plus | TLC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017768
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Really" tvg-logo="https://logo.m3uassets.com/discoveryplus1.png" group-title="Discovery Plus",Discovery Plus | Really
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017771
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Plus | Quest Red" tvg-logo="https://logo.m3uassets.com/discoveryplus1.png" group-title="Discovery Plus",Discovery Plus | Quest Red
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017770
+#EXTINF:-1 tvg-id="" tvg-name="Clubber TV | Event 1" tvg-logo="" group-title="Clubber",Clubber TV | Event 1
+https://gohyperspeed.com/1011937795/JiJIJQSsII/600017723
+#EXTINF:-1 tvg-id="" tvg-name="US Starz Comedy (West) (H)" tvg-logo="https://logo.m3uassets.com/starzcomedy.png" group-title="US Movies",US Starz Comedy (West) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22624
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US: Starz Cinema" tvg-logo="https://logo.m3uassets.com/starzcinema.png" group-title="US Movies",US: Starz Cinema
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163586
+#EXTINF:-1 tvg-id="nbcwmaq.us" tvg-name="US NBC 5 (WMAQ) Chicago (H)" tvg-logo="https://logo.m3uassets.com/nbc5.png" group-title="US NBC",US NBC 5 (WMAQ) Chicago (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/6686
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US: Showtime Next" tvg-logo="https://logo.m3uassets.com/showtimenext.png" group-title="US Movies",US: Showtime Next
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163571
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="US HBO West (H)" tvg-logo="https://logo.m3uassets.com/hbowest.png" group-title="US Movies",US HBO West (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5874
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="US: World Fishing Network" tvg-logo="https://logo.m3uassets.com/worldfishingnetwork.png" group-title="US Sports",US: World Fishing Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200162595
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="US: SHOxBET" tvg-logo="https://logo.m3uassets.com/shoxbet.png" group-title="US Movies",US: SHOxBET
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163568
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US: Showtime Family Zone" tvg-logo="https://logo.m3uassets.com/showtimefamilyzone.png" group-title="US Movies",US: Showtime Family Zone
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163573
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="US: QVC" tvg-logo="https://logo.m3uassets.com/qvc.png" group-title="USA Premium",US: QVC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163453
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="US Movies",US: TNT
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500000769
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL RedZone" tvg-logo="https://logo.m3uassets.com/nflredzone.png" group-title="US Sports",US: NFL RedZone
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002369
+#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="US: ScreenPix Westerns" tvg-logo="https://logo.m3uassets.com/screenpixwesterns.png" group-title="US Movies",US: ScreenPix Westerns
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170638
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US: Showtime Women" tvg-logo="https://logo.m3uassets.com/showtimewomen.png" group-title="US Movies",US: Showtime Women
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163572
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US Movies",US HBO 2 (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5869
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="US: OVATION" tvg-logo="https://logo.m3uassets.com/ovation.png" group-title="USA Premium",US: OVATION
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200171086
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US CineMAX (East) (H)" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="US Movies",US CineMAX (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22576
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US HBO (East) (A)" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Movies",US HBO (East) (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5871
+#EXTINF:-1 tvg-id="EPIX.us" tvg-name="US MGM+ (East) (A)" tvg-logo="https://logo.m3uassets.com/mgm.png" group-title="US Movies",US MGM+ (East) (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5858
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US: HDnet Movies" tvg-logo="https://logo.m3uassets.com/hdnetmovies.png" group-title="US Movies",US: HDnet Movies
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200166102
+#EXTINF:-1 tvg-id="pbswned.us" tvg-name="US: PBS" tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA Premium",US: PBS
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163448
+#EXTINF:-1 tvg-id="PixL.us2" tvg-name="US: PIXL" tvg-logo="https://logo.m3uassets.com/pixl.png" group-title="USA Premium",US: PIXL
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200162598
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="US: C SPAN" tvg-logo="https://logo.m3uassets.com/cspan.png" group-title="US News",US: C SPAN
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151222
+#EXTINF:-1 tvg-id="screenpixaction.us" tvg-name="US: ScreenPix Action" tvg-logo="https://logo.m3uassets.com/screenpixaction.png" group-title="US Movies",US: ScreenPix Action
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170636
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US: RetroPlex (East)" tvg-logo="https://logo.m3uassets.com/retroplex.png" group-title="US Movies",US: RetroPlex (East)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170648
+#EXTINF:-1 tvg-id="fandueltv.us" tvg-name="US: FanDuel TV" tvg-logo="https://logo.m3uassets.com/fandueltv.png" group-title="US Sports",US: FanDuel TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163481
+#EXTINF:-1 tvg-id="screenpixvoices.us" tvg-name="US: ScreenPix Voices" tvg-logo="https://logo.m3uassets.com/screenpixvoices.png" group-title="US Movies",US: ScreenPix Voices
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170637
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US: Starz Encore Family" tvg-logo="https://logo.m3uassets.com/starzencorefamily.png" group-title="US Movies",US: Starz Encore Family
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163587
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US: MoviePlex (East)" tvg-logo="https://logo.m3uassets.com/movieplex.png" group-title="US Movies",US: MoviePlex (East)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170646
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US Showtime East (S)" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US Movies",US Showtime East (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5864
+#EXTINF:-1 tvg-id="cinemaxwest.us" tvg-name="US CineMAX (West) (H)" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="US Movies",US CineMAX (West) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22577
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="US: IndiePlex (East)" tvg-logo="https://logo.m3uassets.com/indieplex.png" group-title="US Movies",US: IndiePlex (East)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170644
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="US: Outside" tvg-logo="https://logo.m3uassets.com/outside.png" group-title="USA Premium",US: Outside
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163740
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: Starz Kids &amp; Family" tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" group-title="US Movies",US: Starz Kids & Family
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200163580
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="US: IndiePlex (West)" tvg-logo="https://logo.m3uassets.com/indieplex.png" group-title="US Movies",US: IndiePlex (West)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200170645
+#EXTINF:-1 tvg-id="nextlevelsports.us" tvg-name="US: Next Level Sports" tvg-logo="https://logo.m3uassets.com/nextlevelsports.png" group-title="US Sports",US: Next Level Sports
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151274
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="US: GINX eSports" tvg-logo="https://logo.m3uassets.com/ginxesports.png" group-title="US Sports",US: GINX eSports
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200151316
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US HBO 2 (East) (H)" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US Movies",US HBO 2 (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22587
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="US REELZ (S)" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="US Movies",US REELZ (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/10991
+#EXTINF:-1 tvg-id="cbswbbm.us" tvg-name="US CBS 2 (WBBM) Chicago (H)" tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="US CBS",US CBS 2 (WBBM) Chicago (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/6478
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US HBO Comedy (East) (H)" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US Movies",US HBO Comedy (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22589
+#EXTINF:-1 tvg-id="" tvg-name="US Lifetime Movie Network (LMN) (S)" tvg-logo="https://logo.m3uassets.com/lifetimemovienetwork.png" group-title="US Movies",US Lifetime Movie Network (LMN) (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/30816
+#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="US Sony Movies (F)" tvg-logo="https://logo.m3uassets.com/sonymovies.png" group-title="US Movies",US Sony Movies (F)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/5850
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="US TCM (East) (H)" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="US Movies",US TCM (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22647
+#EXTINF:-1 tvg-id="EPIXDriveIn.us" tvg-name="US MGM+ Drive In (S)" tvg-logo="https://logo.m3uassets.com/drive.png" group-title="US Movies",US MGM+ Drive In (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/10988
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="US ActionMAX (East)  (FHD) (A)" tvg-logo="https://logo.m3uassets.com/actionmax.png" group-title="US Movies",US ActionMAX (East)  (FHD) (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/18820
+#EXTINF:-1 tvg-id="STARZENCOREAction.us" tvg-name="US Starz Encore Action (East) (S)" tvg-logo="https://logo.m3uassets.com/starzencoreaction.png" group-title="US Movies",US Starz Encore Action (East) (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/14136
+#EXTINF:-1 tvg-id="STARZENCORE.us" tvg-name="US Starz Encore East (S)" tvg-logo="https://logo.m3uassets.com/starzencore.png" group-title="US Movies",US Starz Encore East (S)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/13488
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US MGM+ Hits (A)" tvg-logo="https://logo.m3uassets.com/mgm+hits.png" group-title="US Movies",US MGM+ Hits (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/8644
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="US Lifetime Movie Network (LMN) (H)" tvg-logo="https://logo.m3uassets.com/lifetimemovienetwork.png" group-title="US Movies",US Lifetime Movie Network (LMN) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22645
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="US HBO (West) (H)" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Movies",US HBO (West) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22586
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="US: Aspire" tvg-logo="https://logo.m3uassets.com/aspire.png" group-title="USA Premium",US: Aspire
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200173813
+#EXTINF:-1 tvg-id="STARZ.us" tvg-name="US Starz (East) (H)" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="US Movies",US Starz (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22619
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="US MoreMAX (East) (H)" tvg-logo="https://logo.m3uassets.com/moremax.png" group-title="US Movies",US MoreMAX (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22578
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US HBO Signature (East) (H)" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="US Movies",US HBO Signature (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22593
+#EXTINF:-1 tvg-id="STARZKidsandFamily.us" tvg-name="US Starz Kids &amp; Family (East) (H)" tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" group-title="US Movies",US Starz Kids & Family (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22643
+#EXTINF:-1 tvg-id="STARZENCOREWesterns.us" tvg-name="US Starz Encore Westerns (East) (H)" tvg-logo="https://logo.m3uassets.com/starzencorewesterns.png" group-title="US Movies",US Starz Encore Westerns (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22639
+#EXTINF:-1 tvg-id="" tvg-name="US Starz Encore Westerns (West) (H)" tvg-logo="https://logo.m3uassets.com/starzencorewesterns.png" group-title="US Movies",US Starz Encore Westerns (West) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22640
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US Starz Edge (East) (H)" tvg-logo="https://logo.m3uassets.com/starzedge.png" group-title="US Movies",US Starz Edge (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22625
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="US Movies",US: AMC
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500000751
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Family" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="US Movies",US: HBO Family
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500000760
+#EXTINF:-1 tvg-id="" tvg-name="US: GAC Family" tvg-logo="https://logo.m3uassets.com/gacfamily.png" group-title="US Movies",US: GAC Family
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500200075
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network" tvg-logo="https://logo.m3uassets.com/nflnetwork.png" group-title="US Sports",US: NFL Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002367
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US HBO East (A)" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Movies",US HBO East (A)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/14451
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="US ActionMAX (East) (H)" tvg-logo="https://logo.m3uassets.com/actionmax.png" group-title="US Movies",US ActionMAX (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22574
+#EXTINF:-1 tvg-id="" tvg-name="US HBO Comedy (West) (H)" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" group-title="US Movies",US HBO Comedy (West) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22590
+#EXTINF:-1 tvg-id="" tvg-name="US: Comedy Central" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="US Movies",US: Comedy Central
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500000754
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US Showtime (East) (H)" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US Movies",US Showtime (East) (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/22597
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC Chicago Illinois WLS TV" tvg-logo="https://logo.m3uassets.com/illinoischicago.png" group-title="US News",US: ABC Chicago Illinois WLS TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500284536
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY" tvg-logo="https://logo.m3uassets.com/syfy.png" group-title="US Movies",US: SYFY
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002359
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Chicago Illinois WMAQ TV" tvg-logo="https://logo.m3uassets.com/illinoischicago.png" group-title="US News",US: NBC Chicago Illinois WMAQ TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500041046
+#EXTINF:-1 tvg-id="" tvg-name="US: SportsGrid" tvg-logo="https://logo.m3uassets.com/sportsgrid.png" group-title="US Sports",US: SportsGrid
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500282284
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) CBS Sports Golazo Network" tvg-logo="https://logo.m3uassets.com/cbssportsgolazonetwork.png" group-title="US Amazon Prime Linear",(US) (PRIME) CBS Sports Golazo Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000640
+#EXTINF:-1 tvg-id="" tvg-name="US: RedBull TV" tvg-logo="https://logo.m3uassets.com/redbulltv.png" group-title="US Sports",US: RedBull TV
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500284504
+#EXTINF:-1 tvg-id="nbcweek.us" tvg-name="US NBC 25 (WEEK) Peoria (H)" tvg-logo="https://logo.m3uassets.com/nbc2.png" group-title="US NBC",US NBC 25 (WEEK) Peoria (H)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/6649
+#EXTINF:-1 tvg-id="" tvg-name="US: SEC Network" tvg-logo="https://logo.m3uassets.com/secnetwork.png" group-title="US Sports",US: SEC Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500006447
+#EXTINF:-1 tvg-id="" tvg-name="US: Root Sports" tvg-logo="https://logo.m3uassets.com/rootsports.png" group-title="US Sports",US: Root Sports
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500299105
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC America" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US Movies",US: BBC America
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002277
+#EXTINF:-1 tvg-id="" tvg-name="US: FX Movie Channel" tvg-logo="https://logo.m3uassets.com/fxmoviechannel.png" group-title="US Movies",US: FX Movie Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500039873
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="US Movies",US: FXX
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002330
+#EXTINF:-1 tvg-id="" tvg-name="US: Willow 2" tvg-logo="https://logo.m3uassets.com/willow2.png" group-title="US Sports",US: Willow 2
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002372
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="https://logo.m3uassets.com/nhlnetwork.png" group-title="US Sports",US: NHL Network
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002348
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Fight Pass" tvg-logo="https://logo.m3uassets.com/ufcfightpass.png" group-title="US Sports",US: UFC Fight Pass
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500002374
+#EXTINF:-1 tvg-id="" tvg-name="US: Spectrum SportsNet" tvg-logo="https://logo.m3uassets.com/spectrumsportsnet.png" group-title="US Sports",US: Spectrum SportsNet
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500150611
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) HBO Boxing" tvg-logo="" group-title="US Amazon Prime Linear",(US) (PRIME) HBO Boxing
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000792
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) Showtime" tvg-logo="https://logo.m3uassets.com/showtime.png" group-title="US Amazon Prime Linear",(US) (PRIME) Showtime
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700001028
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Blockbuster" tvg-logo="https://logo.m3uassets.com/skycinemablockbusters.png" group-title="US Movies",US: CineBox Blockbuster
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500297179
+#EXTINF:-1 tvg-id="my50wpwr.us" tvg-name="US: MY 50 Chicago (WPWR)" tvg-logo="https://logo.m3uassets.com/cw50chicago.png" group-title="USA Premium",US: MY 50 Chicago (WPWR)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/200168494
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) HBO" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="US Amazon Prime Linear",(US) (PRIME) HBO
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000790
+#EXTINF:-1 tvg-id="" tvg-name="US: Sportsman Channel" tvg-logo="https://logo.m3uassets.com/sportsmanchannel.png" group-title="US Sports",US: Sportsman Channel
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500030847
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) Movies" tvg-logo="" group-title="US Amazon Prime Linear",(US) (PRIME) Movies
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000905
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Comedy" tvg-logo="https://logo.m3uassets.com/comedybox.png" group-title="US Movies",US: CineBox Comedy
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500290402
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) 90s Sitcom" tvg-logo="" group-title="US Amazon Prime Linear",(US) (PRIME) 90s Sitcom
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000531
+#EXTINF:-1 tvg-id="" tvg-name="US: World Poker Tour" tvg-logo="https://logo.m3uassets.com/worldpokertour.png" group-title="US Sports",US: World Poker Tour
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500286493
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) HBO 2" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="US Amazon Prime Linear",(US) (PRIME) HBO 2
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000791
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) HBO Signature" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="US Amazon Prime Linear",(US) (PRIME) HBO Signature
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000796
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Action" tvg-logo="https://logo.m3uassets.com/cinemaxaction.png" group-title="US Movies",US: CineBox Action
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500018164
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Cult" tvg-logo="https://logo.m3uassets.com/cinebox.png" group-title="US Movies",US: CineBox Cult
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500290403
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) HBO Movies" tvg-logo="https://logo.m3uassets.com/hbozone.png" group-title="US Amazon Prime Linear",(US) (PRIME) HBO Movies
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000798
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) Adult Animation" tvg-logo="https://logo.m3uassets.com/animation.png" group-title="US Amazon Prime Linear",(US) (PRIME) Adult Animation
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000550
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Sci Fi" tvg-logo="https://logo.m3uassets.com/cinebox.png" group-title="US Movies",US: CineBox Sci Fi
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500299743
+#EXTINF:-1 tvg-id="" tvg-name="US: RetroPlex" tvg-logo="https://logo.m3uassets.com/retroplex.png" group-title="US Movies",US: RetroPlex
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500076356
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Western" tvg-logo="https://logo.m3uassets.com/cinemawestern.png" group-title="US Movies",US: CineBox Western
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500299739
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) 80s Sitcom" tvg-logo="" group-title="US Amazon Prime Linear",(US) (PRIME) 80s Sitcom
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000530
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) AMAZON MOVIES" tvg-logo="https://logo.m3uassets.com/amazonsat.png" group-title="US Amazon Prime Linear",(US) (PRIME) AMAZON MOVIES
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000562
+#EXTINF:-1 tvg-id="" tvg-name="US: SCREENPIX WESTERNS US" tvg-logo="https://logo.m3uassets.com/screenpixwesterns.png" group-title="US Movies",US: SCREENPIX WESTERNS US
+https://gohyperspeed.com/1011937795/JiJIJQSsII/400124978
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) NASA+" tvg-logo="https://logo.m3uassets.com/nasa.png" group-title="US Amazon Prime Linear",(US) (PRIME) NASA+
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700005463
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Greats" tvg-logo="" group-title="US Movies",US: CineBox Greats
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500297184
+#EXTINF:-1 tvg-id="ScreenPixVoices.us" tvg-name="US: SCREENPIX VOICES US" tvg-logo="https://logo.m3uassets.com/screenpixvoices.png" group-title="US Movies",US: SCREENPIX VOICES US
+https://gohyperspeed.com/1011937795/JiJIJQSsII/400124977
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Mystery" tvg-logo="" group-title="US Movies",US: CineBox Mystery
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500299741
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) PBS Documentaries" tvg-logo="https://logo.m3uassets.com/documentaries.png" group-title="US Amazon Prime Linear",(US) (PRIME) PBS Documentaries
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700001581
+#EXTINF:-1 tvg-id="" tvg-name="US: CineBox Greats Two" tvg-logo="" group-title="US Movies",US: CineBox Greats Two
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500302419
+#EXTINF:-1 tvg-id="ScreenPixAction.us" tvg-name="US: SCREENPIX ACTION US" tvg-logo="https://logo.m3uassets.com/screenpixaction.png" group-title="US Movies",US: SCREENPIX ACTION US
+https://gohyperspeed.com/1011937795/JiJIJQSsII/400124975
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) Documentary+" tvg-logo="https://logo.m3uassets.com/documentary.png" group-title="US Amazon Prime Linear",(US) (PRIME) Documentary+
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000695
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) BBC America" tvg-logo="https://logo.m3uassets.com/bbcamerica.png" group-title="US Amazon Prime Linear",(US) (PRIME) BBC America
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000592
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) At the Movies" tvg-logo="https://logo.m3uassets.com/theq.png" group-title="US Amazon Prime Linear",(US) (PRIME) At the Movies
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000583
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) NBC Sports" tvg-logo="https://logo.m3uassets.com/nbcsports.png" group-title="US Amazon Prime Linear",(US) (PRIME) NBC Sports
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700000939
+#EXTINF:-1 tvg-id="" tvg-name="(US) (PRIME) Starz Cinema (East)" tvg-logo="https://logo.m3uassets.com/starzcinema.png" group-title="US Amazon Prime Linear",(US) (PRIME) Starz Cinema (East)
+https://gohyperspeed.com/1011937795/JiJIJQSsII/700001047
+#EXTINF:-1 tvg-id="" tvg-name="US: Stadium" tvg-logo="https://logo.m3uassets.com/stadium.png" group-title="US Sports",US: Stadium
+https://gohyperspeed.com/1011937795/JiJIJQSsII/500029657
+#EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="US: SCREENPIX US" tvg-logo="https://logo.m3uassets.com/screenpix.png" group-title="US Movies",US: SCREENPIX US
+https://gohyperspeed.com/1011937795/JiJIJQSsII/400124976
